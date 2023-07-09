@@ -1,0 +1,3 @@
+GNEWSURL=https://gnews.io/api/v4/
+PORT=3000
+GNEWSAPIKEY=
